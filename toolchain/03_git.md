@@ -1,4 +1,5 @@
-# Git
+Git
+---
 
 1. Read: [@todo add good intro to Git article]
 2. Do: https://try.github.io 

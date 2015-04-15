@@ -5,4 +5,4 @@
 3. Objectives
 4. Content
 5. Test / deliverables
-
+6. Resources

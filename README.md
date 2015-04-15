@@ -1,4 +1,4 @@
-#Open Drupal
+# Open Drupal
 
 Collection of training materials and resources for self-learning or delivering Drupal training.
 
