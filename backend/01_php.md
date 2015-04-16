@@ -1,9 +1,9 @@
 PHP
 ---
 
-*What’s in this module?* An introduction to PHP.
+__What’s in this module?__ An introduction to PHP.
 
-*Aim:* Understand and be able to use the PHP syntax, arrays and types, basic operators, variables, functions and basic control structures.
+__Aim:__ Understand and be able to use the PHP syntax, arrays and types, basic operators, variables, functions and basic control structures.
 
 ## A. PHP Intro
 

@@ -3,7 +3,7 @@ Open Drupal: Foundation Unit
 
 @todo - write introduction.
 
-Part 1:
+__Part 1:__
 
 1. Introduction
 2. HTML Basics
@@ -16,7 +16,7 @@ Part 1:
 9. Contributed Modules
 10. Build your site
 
-Part 2:
+__Part 2:__
 
 @todo - Create files for each learning module:
 
@@ -29,6 +29,6 @@ Part 2:
 16. Theming
 17. PHP Basics
 
-Part 3:
+__Part 3:__
 
 * Custom projects

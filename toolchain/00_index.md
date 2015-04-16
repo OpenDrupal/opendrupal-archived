@@ -1,4 +1,19 @@
 Using The Toolchain
 -------------------
 
-@todo - copy over from https://docs.google.com/document/d/1fsEbOY2L5jjqlpoLXg22jcgHY8TR0xbX2SPYOoIxwec/edit#heading=h.gxxjm380yg19
+__Aim:__ Be able to contribute to a project as part of a team
+
+__Outcomes:__
+
+* Understand how code and config moves from development to production
+* Use the toolchain & deploy (source control, command line, features, configuration & packaging)
+* Local development environment setup (IDE etc)
+* Using Drupal community resources
+
+__Ideas:__
+
+* Drupal ladder (or a Drupal sprint / event)
+* Finding and assessing modules
+* Patches, the issue queue
+* IRC
+* Version Control

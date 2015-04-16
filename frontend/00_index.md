@@ -1,4 +1,14 @@
 Frontend Development
 --------------------
 
-@todo - copy from https://docs.google.com/document/d/1fsEbOY2L5jjqlpoLXg22jcgHY8TR0xbX2SPYOoIxwec/edit#
+__Aim:__ Be able to understand, work with and make updates to the frontend layer of Drupal
+
+__Outcomes:__
+
+* Use modern frontend tools to make updates to websites (CSS / Sass / JS / jQuery / TWIG)
+* Implementing design requirements
+* Build a Drupal theme from scratch
+
+__Ideas:__
+
+* CSS best practices, accessibility & responsiveness
