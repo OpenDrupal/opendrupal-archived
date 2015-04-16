@@ -19,15 +19,17 @@ Think about a project you're interested in creating, you'll be working on this f
 
 Your project must include the following:
 
-* It should be content related, and be able to list content in some way.
+* It should be focused around content you'll add yourself, and have a section listing this content in some way.
 * It should accept and process user input in some way.
 * It should be something realistic and suitable for Drupal.
+* Any advanced functionality should be documented in a separate part of your plan.
+* The project must be started from scratch, so no distributions or existing websites you've built.
 
 Now, do the following:
 
-* Draft your own project idea: a summary of the site, main pages and any modules.
+* __Do:__ Write up your project plan and include: a summary of the site, the main pages, key Drupal modules, advanced functionality.
 * __Group discussion:__ on each project individually.
-* __Checkpoint:__ record project idea in drive folder
+* __Checkpoint:__ rename your Google Doc to "Full Project Plan" and save it in a folder called "Open Drupal - [name]" replacing [name] with your full name. Now share this folder with the trainer.
 
 ### 2. Setup our local development environments
 
