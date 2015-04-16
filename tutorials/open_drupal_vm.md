@@ -16,7 +16,7 @@ Great! Now we can start using our new development environment. Boot up your mach
 
 To download a module click on the 'Terminal' app in the sidebar. Then type in:
 
-```cd /home/opendrupal/drupal1```
+```cd /home/opendrupal/sites/drupal1```
 
 This will move you into the Drupal directory. Then we use [Drush](http://www.drush.org/) to download a module, to download the views module type in:
 
