@@ -8,7 +8,7 @@ The Command Line
 
 ### B. Test
 
-* __Do:__ [Shortcut Foo - The command line](https://www.shortcutfoo.com/app/dojos/command-line). See how far you can get!
+* __Do:__ [Shortcut Foo - The command line](https://www.shortcutfoo.com/app/dojos/command-line). Complete level 1 & 2.
 
 ### C. VIM
 

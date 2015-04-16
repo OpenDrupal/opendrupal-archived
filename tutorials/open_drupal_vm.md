@@ -35,3 +35,8 @@ The Open Drupal VM comes with Sublime Text, open the editor and then add the /ho
 ### Fixing problems
 
 There are some known issues documented in the [Open Drupal VM Github wiki](https://github.com/OpenDrupal/open-drupal-vm/wiki/Troubleshooting). If you encounter something you, open an issue in the [issue queue](https://github.com/OpenDrupal/open-drupal-vm/issues) and a friendly developer may help you out with it!
+
+### Adding syntax highlighting for Sublime Text
+
+To install syntax highlighting, search Google and follow instructions!
+

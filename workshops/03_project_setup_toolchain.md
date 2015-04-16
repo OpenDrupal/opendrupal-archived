@@ -29,7 +29,7 @@ Now, do the following:
 
 * __Do:__ Write up your project plan and include: a summary of the site, the main pages, key Drupal modules, advanced functionality.
 * __Group discussion:__ on each project individually.
-* __Checkpoint:__ rename your Google Doc to "Full Project Plan" and save it in a folder called "Open Drupal - [name]" replacing [name] with your full name. Now share this folder with the trainer.
+* __Checkpoint:__ rename your Google Doc to "Full Project Plan" and save it in a folder called *"Open Drupal - [name]"* replacing [name] with your full name. Now share this folder with the trainer.
 
 ### 2. Setup our local development environments
 
@@ -46,6 +46,7 @@ Now, do the following:
 
 * __Group discussion:__ the command line, what is it? Why should we use it (it's quicker and more powerful)?
 * Run through *Toolchain->01_command_line.md*
+* Set up a fight on Shortcut Foo
 * __Quiz:__ common terminal commands (see http://cli.learncodethehardway.org/book/ex1.html#linux-mac-osx)
 
 ### 4. Drush

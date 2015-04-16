@@ -9,7 +9,7 @@ Project Setup & Intro to the Toolchain
 
 * 
 
-### 1. Recap: command line & Drush
+### 1. Recap: command line, Drush & project plans
 
 * 
 * 
