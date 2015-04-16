@@ -10,7 +10,7 @@ The Command Line
 
 * __Do:__ [Shortcut Foo - The command line](https://www.shortcutfoo.com/app/dojos/command-line). Complete level 1 & 2.
 
-### C. VIM
+### C. VIM (optional)
 
 * __Do:__ [Open VIM Tutorial](http://www.openvim.com/tutorial.html).
 * __Do:__ Create a new document and write an outline of how to use the command line.
