@@ -1,7 +1,11 @@
 Open Drupal: Foundation Unit
 ----------------------------
 
-@todo - write introduction.
+@todo - finish write introduction.
+
+A fast paced introduction to Drupal, giving participants a broad overview of the technology and ethos. Aims to inspire and motivate and also teach vital knowledge to enable starting in a placement.
+
+Delivered in around 10 days.
 
 __Part 1:__
 

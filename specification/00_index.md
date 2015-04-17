@@ -1,5 +1,5 @@
-Specification and Planning of a Drupal Site
--------------------------------------------
+Specification and Planning
+--------------------------
 
 __Aim:__ Contribute to the specification and planning process  
 
