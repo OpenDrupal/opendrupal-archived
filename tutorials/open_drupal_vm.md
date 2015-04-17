@@ -39,4 +39,3 @@ There are some known issues documented in the [Open Drupal VM Github wiki](https
 ### Adding syntax highlighting for Sublime Text
 
 To install syntax highlighting, search Google and follow instructions!
-

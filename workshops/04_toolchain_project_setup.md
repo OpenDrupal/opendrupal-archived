@@ -1,18 +1,17 @@
-Project Setup & Intro to the Toolchain
---------------------------------------
+The Toolchain Continued & Site Building
+---------------------------------------
 
 ### Preparation
 
-* 
+* @todo
 
 ### What we'll cover today:
 
-* 
+* @todo
 
 ### 1. Recap: command line, Drush & project plans
 
-* 
-* 
+* Recap previous workshop.
 
 ### 2. Start building your site
 
@@ -21,14 +20,12 @@ Project Setup & Intro to the Toolchain
 
 ### 3. Git
 
+* Discussion: What is version control and why do we need it?
 * Do *Toolchain->03_git.md*
-* Initialise a new Git repo in the root of your site
 
 ### 4. Repository setup
 
-* Go to BitBucket and create a free private repository.
-* Share this with your trainer.
-
+* Share the repository you've set up with your trainer.
 
 ### 5. Deployment
 
