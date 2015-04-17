@@ -17,3 +17,7 @@ __Ideas:__
 * Patches, the issue queue
 * IRC
 * Version Control
+
+__Learning Modules:__
+
+* [Command Line](01_command_line.md)
