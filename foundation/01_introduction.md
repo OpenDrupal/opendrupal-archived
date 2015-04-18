@@ -1,9 +1,9 @@
-1. Introduction
----------------
+1. Foundation: Introduction
+---------------------------
 
-*What’s in this module?* An introduction to the course and getting setup on correct systems.
+__What’s in this module?__ An introduction to the course and getting setup on correct systems.
 
-*Aim:* Understand and feel comfortable with the course structure & methods, ask any questions you have. Access Google Drive and start logging on your progress spreadsheet.
+__Aim:__ Understand and feel comfortable with the course structure & methods, ask any questions you have. Access Google Drive and start logging on your progress spreadsheet.
 
 ## About this course
 
@@ -15,7 +15,7 @@
 ## Get set up on systems
 
 * Google Drive
-* Go to Google and (create a new Google Account)[https://accounts.google.com/SignUp].
+* Go to Google and [create a new Google Account](https://accounts.google.com/SignUp).
 * Login and go to Google Drive.
 * Create a folder in Google Drive using your full name as the name of the folder.
 * Share this folder with the facilitator.
@@ -23,4 +23,4 @@
 
 ### Resources
 
-* (How to use Google Drive)[http://www.digitaltrends.com/computing/how-to-use-google-drive/]
+* [How to use Google Drive](http://www.digitaltrends.com/computing/how-to-use-google-drive/).

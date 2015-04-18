@@ -10,6 +10,15 @@ __Outcomes:__
 * Local development environment setup (IDE etc)
 * Using Drupal community resources
 
+__Learning Modules:__
+
+1. [Command Line](01_command_line.md)
+2. [Drush](02_drush.md)
+3. [Git](03_git.md)
+4. [Deployment](04_deployment.md)
+5. [Features](05_features.md)
+6. [Environments](06_environments.md)
+
 __Ideas:__
 
 * Drupal ladder (or a Drupal sprint / event)
@@ -17,7 +26,3 @@ __Ideas:__
 * Patches, the issue queue
 * IRC
 * Version Control
-
-__Learning Modules:__
-
-* [Command Line](01_command_line.md)

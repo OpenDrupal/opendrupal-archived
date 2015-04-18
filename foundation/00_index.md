@@ -1,5 +1,5 @@
-Open Drupal: Foundation Unit
-----------------------------
+Open Drupal: Foundation
+-----------------------
 
 @todo - finish write introduction.
 
@@ -22,17 +22,8 @@ __Part 1:__
 
 __Part 2:__
 
-@todo - Create files for each learning module:
-
-11. Drupal quiz
-12. How do web servers work
-12. Local Development Environment
-13. Migrating between environments
-14. DevOps (development workflows & Git)
-15. HTML & CSS
-16. Theming
-17. PHP Basics
+@todo - Complete this section: https://github.com/OpenDrupal/opendrupal/issues/12
 
 __Part 3:__
 
-* Custom projects
+@todo - Complete this section: https://github.com/OpenDrupal/opendrupal/issues/14

@@ -4,7 +4,7 @@ The Command Line
 ### A. Command Line Basics
 
 * __Read:__ [CodeAcademy - getting comfortable in the terminal](http://www.codecademy.com/blog/72-getting-comfortable-in-the-terminal-linux).
-* __Read:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
+* __Do:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
 
 ### B. Test
 

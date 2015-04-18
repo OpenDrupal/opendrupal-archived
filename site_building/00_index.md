@@ -9,5 +9,4 @@ __Outcomes:__
 * Understand how the issue queues and module versions work.
 * Install and configure several contrib modules including: Views, Display Suite, Context, CKEditor, Rules, Media, Date, Webform.
 
-__Ideas:__
-
+@todo - Complete writing content for this unit, see [this issue](https://github.com/OpenDrupal/opendrupal/issues/18)

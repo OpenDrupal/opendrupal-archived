@@ -28,7 +28,11 @@ __Part 1:__
 
 __Part 2:__
 
-Coming soon...
+Coming soon... see [this issue](https://github.com/OpenDrupal/opendrupal/issues/12).
+
+__Part 3:__
+
+Coming soon... see [this issue](https://github.com/OpenDrupal/opendrupal/issues/14).
 
 ## Team Processes
 
