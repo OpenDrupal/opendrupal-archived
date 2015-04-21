@@ -1,9 +1,11 @@
 The Open Drupal Curriculum
 --------------------------
 
-Free and Open Source training materials for teaching and learning Drupal
+### Free and Open Source training materials for teaching and learning Drupal.
 
-We are building an Open Source curriculum. With cooperation from developers, educators and the community, we are creating high quality, free and Open Source training materials to make it easier to run effective Drupal training programmes and help people get started in the web industry.
+With cooperation from developers, educators and the community we are building an open source curriculum to make it easier to run effective Drupal training programmes and help people get started in the web industry.
+
+This curriculum consists of a roadmap for learning how to become a Drupal developer, it can be followed as an individual or be used to deliver training. It aims to provide a set of standards and knowledge for a Drupal developer to aim for when they start out.
 
 The curriculum comprises many learning modules, organised into units. These can be worked through individually or as a group. There are also a number of [workshops](workshops) which can be used to deliver the content of the learning modules.
 
@@ -11,7 +13,7 @@ The theory is that once someone has met all the aims of the learning modules, th
 
 ## Foundation
 
-The [Open Drupal Foundation](foundation/00_index.md) teaches the fundamentals of Drupal, it's designed for people who are already fairly [web literate](https://webmaker.org/en-US/literacy) but have not had any professional web development experience. We dive straight in to building a Drupal site and see some quick results and learn about the Drupal and open source ecosystem.
+The [Open Drupal Foundation](foundation/00_index.md) teaches the fundamentals of Drupal, it's designed for people who are already fairly [web literate](https://webmaker.org/en-US/literacy) but have not had any professional web development experience. We dive straight in to building a Drupal site and see some quick results and learn about the Drupal and the open source ecosystem.
 
 __Part 1:__
 
