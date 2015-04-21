@@ -1,7 +1,7 @@
 Frontend Development
 --------------------
 
-__Aim:__ Be able to understand, work with and make updates to the frontend layer of Drupal
+__Aim:__ Be able to understand, work with and make updates to the frontend layer of Drupal.
 
 __Outcomes:__
 

@@ -23,3 +23,8 @@ Communities
 * http://groups.drupal.org
 * http://www.reddit.com/r/drupal
 * https://plus.google.com/u/0/communities/111161359890617128846
+
+Web Resources
+=============
+
+* https://www.webplatform.org/

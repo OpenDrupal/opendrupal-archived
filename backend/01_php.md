@@ -19,3 +19,4 @@ __Aim:__ Understand and be able to use the PHP syntax, arrays and types, basic o
 ## Resources
 
 * [The PHP Manual](http://php.net/manual/en/index.php)
+* [Eli The Computer Guy](http://www.teachingtree.co/teachers/show?teacher_name=Eli+The+Computer+Guy)
