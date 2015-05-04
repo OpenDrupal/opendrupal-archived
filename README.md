@@ -89,11 +89,12 @@ __[Backend Development](backend/00_index.md)__
 
 __[Frontend Development](frontend/00_index.md)__
 
-1. [Frontend technologies](frontend/01_frontend_technologies.md)
-2. [Theming in Drupal](frontend/02_drupal_theming.md)
+1. [Web Design Intro](frontend/01_web_design_intro.md)
+2. [HTML](frontend/02_html.md)
 3. [CSS & Sass](frontend/03_css_sass.md)
-4. [Templating](frontend/04_templating.md)
+4. [Responsive Design](frontend/04_responsive_design.md)
 5. [Javascript & jQuery](frontend/05_javascript_jquery.md)
+6. [Drupal Theming](frontend/07_drupal_theming.md)
 
 ## Testing, QA & Security
 
