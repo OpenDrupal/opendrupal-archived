@@ -7,6 +7,7 @@ __Outcomes:__
 
 * Architect a Drupal site
 * Build a publically accessible site making use of a custom module and custom theme
+* Understand general project processes
 
 __Ideas:__
 

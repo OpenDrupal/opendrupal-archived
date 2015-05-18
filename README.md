@@ -89,7 +89,7 @@ __[Backend Development](backend/00_index.md)__
 
 __[Frontend Development](frontend/00_index.md)__
 
-1. [Web Design Intro](frontend/01_web_design_intro.md)
+1. [Frontend intro](frontend/01_frontend_intro.md)
 2. [HTML](frontend/02_html.md)
 3. [CSS & Sass](frontend/03_css_sass.md)
 4. [Responsive Design](frontend/04_responsive_design.md)

@@ -5,6 +5,7 @@ __Aim:__ Be able to understand, work with and make updates to the frontend layer
 
 __Outcomes:__
 
+* Have gone through a full frontend design and implementation process
 * Use modern frontend tools to make updates to websites (CSS / Sass / JS / jQuery / TWIG)
 * Implementing design requirements
 * Build a Drupal theme from scratch

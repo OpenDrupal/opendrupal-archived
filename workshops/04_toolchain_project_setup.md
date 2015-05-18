@@ -17,6 +17,7 @@ The Toolchain Continued & Site Building
 
 * Evaluating modules
 * Using Drush to download and enable modules
+* Download and enable a few modules and add a couple of content types so our site has something to add to our repo.
 
 ### 3. Git
 
