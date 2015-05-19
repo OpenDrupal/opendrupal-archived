@@ -2,6 +2,7 @@ Roadmap
 -------
 
 __Main aim:__ Free and open source training material by way of The Open Drupal Curriculum.
+
 __Secondary aims:__ Support local training programmes and provide tools to help training and learning Drupal.
 
 ## Goals
