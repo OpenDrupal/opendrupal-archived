@@ -8,7 +8,6 @@ Drush
 * __Do:__ Write your own Drush cheatsheet with at least 10 useful commands.
 * __Checkpoint:__ Save your Drush cheatsheet in your folder.
 
-
 ### B. Drush Aliases (optional)
 
 * __Read:__ [Deeson: Drush aliases](https://www.deeson.co.uk/labs/drupal-drush-aliases-and-how-use-them)
