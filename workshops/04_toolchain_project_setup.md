@@ -27,12 +27,12 @@ The Toolchain Continued & Site Building
 ### 3. Git Intro
 
 * __Group Discussion:__ What is version control and why do we need it?
-* __Do:__ the [/toolchain/03_git.md](Toolchain: Git, part A) learning module section.
+* __Do:__ the [Toolchain: Git, part A](/toolchain/03_git.md) learning module section.
 * __Group Activity:__ Each draw a diagram of what Git is and how it works.
 
 ### 4. Git: Project Repository Setup
 
-* __Do:__ [/toolchain/03_git.md](Toolchain: Git, part B).
+* __Do:__ [Toolchain: Git, part B](/toolchain/03_git.md).
 * __Checkpoint:__ Share your git repository with your trainer.
 
 ### 5. Git: Shared Repository Setup
