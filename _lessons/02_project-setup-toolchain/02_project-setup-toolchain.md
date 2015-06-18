@@ -56,6 +56,7 @@ Now, do the following:
 ### Resources
 
 * [*NIX Spellbook](http://nixsrv.com/)
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 3) Drush
 ========

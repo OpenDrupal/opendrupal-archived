@@ -5,6 +5,8 @@ Lessons are collections of useful resources and directions to help achieve the l
 
 They are currently designed to be used as one day workshops delivered by a trainer to a small group of less than 8. There may be accompanying notes by trainers with them as well. 
 
+All lessons assume that a participant has gone through all parts of The Open Drupal Foundation course, or have equivalent knowledge.
+
 | No.| Units Covered                | Notes                                                       |
 |----|------------------------------|-------------------------------------------------------------|
 | 01 | Team Processes               |                                                             |
