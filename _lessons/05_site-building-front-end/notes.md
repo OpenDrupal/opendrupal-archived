@@ -26,3 +26,5 @@ Quick run through: 1 - 2 hours
 ### B. Drupal Theming
 
 Trainer note: depending on ability and progression, get everyone to decide on one theme and walk through installation and toolset installation. Get to the most basic point of editing a line of Sass.
+
+Write down advantages / disadvantages of popular themes
