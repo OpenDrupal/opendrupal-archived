@@ -1,20 +1,23 @@
-Agile Development & User Stories
---------------------------------
+Agile Development
+-----------------
 
-An introduction to agile development methodologies and project lifecycles (e.g Discovery -> Design -> Kick off -> Build -> Test -> Deploy)
+@todo - Add in Crispin's notes.
+
+This lesson contains an introduction to the concepts of Agile development. This includes the general theory behind agile teams and the agile lifecycle as well as the more specific methdology of Scrum.
 
 ### A. An Introduction to Agile & Scrum
 
+* The agile project lifecycle (Discovery -> Design -> Kick off -> Build -> Test -> Deploy). @todo - Add a resource in here.
 * [An intro to Scrum](https://www.atlassian.com/agile/scrum)
 
 ### B. Gathering Requirements
 
-*__Read:__ [Gov.uk writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-*__Do:__ Write between 5 & 10 user stories to describe functionality of your project.
+* __Read:__ [Gov.uk writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
+* __Do:__ Write between 5 & 10 user stories to describe functionality of your project.
 
 ### C. Wireframing
 
-*__Do:__ Create some wireframes of key pages, and attribute user stories to them - if you already have wireframes use these.
+* __Do:__ Create some wireframes of key pages, and attribute user stories to them - if you already have wireframes use these.
 
 ### D. Kanban & Design in Agile (Optional)
 
@@ -25,12 +28,12 @@ An introduction to agile development methodologies and project lifecycles (e.g D
 
 * @todo - Add some useful resources for prototyping.
 
-PM Systems
-----------
+Project Management Systems
+--------------------------
 
 Project management systems are essential to any successful project. You'll need to 
 
-### Types of system
+### A. Types of system
 
 * Trello
 * GitHub issue queue. See [mastering issues](https://guides.github.com/features/issues/).
@@ -43,6 +46,6 @@ Project management systems are essential to any successful project. You'll need 
 
 *__Checkpoint:__ Take a screenshot of your PM system, copy into a Google doc (or write a blog post) and explain the process you'll be undertaking. 
 
-### Build a scrum board
+### B. Build a scrum board
 
 * Using post-it notes build a real life scrum board.
