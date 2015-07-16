@@ -24,6 +24,14 @@ __Resources:__
 
 * Create a new template override for a custom block which is placed in a sidebar region, add a custom wrapper class and use the relevant HTML5 element.
 
+* Now, try adding custom template overrides for:
+
+1. A specific region
+2. Your site's front page
+3. page.tpl.php based on content type
+
+Make sure you update any HTML to use the semantically correct elements.
+
 ### C. Customising Themes
 
 * Add a new region to your theme by declaring it in THEMENAME.info and adding it to page.tpl.php
