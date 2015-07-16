@@ -3,14 +3,23 @@ Agile Development & User Stories
 
 An introduction to agile development methodologies and project lifecycles (e.g Discovery -> Design -> Kick off -> Build -> Test -> Deploy)
 
-### A. Gathering Requirements
+### A. An Introduction to Agile & Scrum
+
+* [An intro to Scrum](https://www.atlassian.com/agile/scrum)
+
+### B. Gathering Requirements
 
 *__Read:__ [Gov.uk writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
 *__Do:__ Write between 5 & 10 user stories to describe functionality of your project.
 
-### B. Wireframing
+### C. Wireframing
 
 *__Do:__ Create some wireframes of key pages, and attribute user stories to them - if you already have wireframes use these.
+
+### D. Kanban & Design in Agile (Optional)
+
+* [Kanban](https://www.atlassian.com/agile/kanban)
+* [Design Spikes](http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)
 
 ### Resources
 
