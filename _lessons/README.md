@@ -37,9 +37,9 @@ Learn about all areas of the front end.
 |----|---------------------------|--------------------------------------------------------------|
 | 06 | Front End                 | HTML & theming                                               |
 | 07 | Front End                 | Responsive design                                            |
-| 08 | Front End                 | CSS, Sass, JS                                                |
+| 08 | Front End                 | CSS, Sass, JavaScript                                        |
 | 09 | Front End                 | Sass, jQuery                                                 |
-| 10 | Front End                 | JavaScript, complete theme                                   |
+| 10 | Front End                 | JavaScript, finish theme                                     |
 
 ### Open Drupal Full Stack Master
 
@@ -48,11 +48,11 @@ coding API integrations.
 
 | No.| Units Covered             | Notes                                                        |
 |----|---------------------------|--------------------------------------------------------------|
-| 11 | Backend                   | PHP, custom module development                               |
+| 11 | Back End                  | PHP, custom module development                               |
 | 12 | Site building, Team       | Advanced module dev focus + Team skills (ahead of hackathon) |
 | 13 | Hackathon                 |                                                              |
-| 14 | DevOps                    | Features, deployment, LAMP administration                    |
-| 15 | Testing                   | Behat                                                        |
+| 14 | Back End                  | DevOps: Features, deployment, LAMP administration            |
+| 15 | Testing                   | Testing & QA                                                 |
 
 ### Open Drupal Back End Sensei
 
@@ -61,8 +61,8 @@ coding API integrations.
 | 16 | Back End                  | PHP, custom module development                               |
 | 17 | Back End                  | PHP, custom module development                               |
 | 18 | Back End                  | APIs, services                                               |
-| 19 | Back End                  |                                                              |
-| 20 | Back End                  |                                                              |
+| 19 | Back End                  | TBC                                                          |
+| 20 | Back End                  | Testing: Behat                                               |
 
 ### Open Drupal Complete
 
@@ -72,9 +72,9 @@ your web development expertise.
 
 | No.| Units Covered             | Notes                                                       |
 |----|---------------------------|-------------------------------------------------------------|
-| 21 | Full Project              |                                                             |
-| 22 | Full Project              |                                                             |
-| 23 | Specification             |                                                             |
+| 21 | Full Project              | Catch-up and finish projects                                |
+| 22 | Full Project              | Catch-up and finish projects                                |
+| 23 | Specification             | Write a full specification for an upcoming project          |
 
 
 Other Ideas
