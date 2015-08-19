@@ -21,6 +21,8 @@ Drupal Foundation course, or have equivalent knowledge.
 Get ready to integrate into a team by skilling up and mastering the most important
 parts of setting up new projects and working on existing projects like a pro.
 
+| No.| Units Covered             | Notes                                                        |
+|----|---------------------------|--------------------------------------------------------------|
 | 01 | Team Processes            | PM systems, Agile methodology, User Stories                  |
 | 02 | Full Project, Toolchain   | Project set up, local dev environment, command line, Drush   |
 | 03 | Toolchain, Full Project   | Repository set up, Git, deployment & Drupal environments     |
@@ -31,6 +33,8 @@ parts of setting up new projects and working on existing projects like a pro.
 
 Learn about all areas of the front end.
 
+| No.| Units Covered             | Notes                                                        |
+|----|---------------------------|--------------------------------------------------------------|
 | 06 | Front End                 | HTML & theming                                               |
 | 07 | Front End                 | Responsive design                                            |
 | 08 | Front End                 | CSS, Sass, JS                                                |
@@ -52,6 +56,8 @@ coding API integrations.
 
 ### Open Drupal Back End Sensei
 
+| No.| Units Covered             | Notes                                                        |
+|----|---------------------------|--------------------------------------------------------------|
 | 16 | Back End                  | PHP, custom module development                               |
 | 17 | Back End                  | PHP, custom module development                               |
 | 18 | Back End                  | APIs, services                                               |
@@ -64,6 +70,8 @@ Wrap up all your hard work by finishing off your project and deploying. Then wit
 expert knowledge write a full website specification for a client to come full circle in
 your web development expertise.
 
+| No.| Units Covered             | Notes                                                       |
+|----|---------------------------|-------------------------------------------------------------|
 | 21 | Full Project              |                                                             |
 | 22 | Full Project              |                                                             |
 | 23 | Specification             |                                                             |
