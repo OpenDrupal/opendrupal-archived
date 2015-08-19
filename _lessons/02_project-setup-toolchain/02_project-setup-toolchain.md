@@ -1,15 +1,15 @@
 Project Setup & Intro to the Toolchain
---------------------------------------
+======================================
 
 Overview
-========
+--------
 
 * Deciding on a project to work on over the coming workshops, so there is a consistent focus and so you can build something useful and use as evidence.
 * Setting up and making sure we're comfortable with our local development environments, so when we use this environments in the future we know what we're doing.
 * Using the command line & Drush, as they are widely used developer tools and can make you quicker and access more powerful system features.
 
 1) Project Set Up
-=================
+-----------------
 
 ### A. Decide on a project
 
@@ -36,7 +36,7 @@ Now, do the following:
 * __Group discussion:__ Q&A on virtual machines and local setup, tips & tricks on local development.
 
 2) Command Line
-===============
+---------------
 
 ### A. Command Line Basics
 
@@ -59,12 +59,12 @@ Now, do the following:
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 3) Drush
-========
+--------
 
 ### A. Drush Intro
 
 * __Read:__ [DigitalOcean - A beginners guide to Drush](https://www.digitalocean.com/community/tutorials/a-beginner-s-guide-to-drush-the-drupal-shell)
-* __Do:__ Download a module using Drush, then enable it. Then check your Drupal site for updates and install any 
+* __Do:__ Download a module using Drush, then enable it. Then check your Drupal site for updates and install any
 * __Do:__ Write your own Drush cheatsheet with at least 10 useful commands.
 * __Checkpoint:__ Save your Drush cheatsheet in your folder.
 

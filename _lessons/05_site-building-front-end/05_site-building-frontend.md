@@ -1,8 +1,8 @@
 Site Building & Front End Development
--------------------------------------
+=====================================
 
 Overview
-========
+--------
 
 A look into the Drupal contrib module ecosystem, install some useful modules to assist with development and dive deeper into a few powerful modules relevant to your project. Then spend some time going over the frontend development landscape and start building a theme in Drupal, learning about subtheming and getting started with Sass.
 
@@ -16,7 +16,7 @@ After this lesson you should have:
 * Sass and Compass up and running on your local development environment
 
 1) Modules
-==========
+----------
 
 ### A. The Module Ecosystem
 
@@ -27,7 +27,7 @@ After this lesson you should have:
 
 ### B. Standard Development Module Stack
 
-* Make sure you have the following useful stack of modules and dev tools installed: Views, Admin Menu, Adminimal Administration Menu, Devel, Link, Webform, Backup & Migrate, Diff, Features, Libraries, jQuery Update, Maillog, Masquerade, Module Filter, Fast Permissions Administration, Pathauto, Token. 
+* Make sure you have the following useful stack of modules and dev tools installed: Views, Admin Menu, Adminimal Administration Menu, Devel, Link, Webform, Backup & Migrate, Diff, Features, Libraries, jQuery Update, Maillog, Masquerade, Module Filter, Fast Permissions Administration, Pathauto, Token.
 * Take a look at the module pages of any modules you haven't heard of and read up on what they do.
 
 * __Hint:__ ```drush dl views admin_menu adminimal_admin_menu devel link webform backup_migrate diff features libraries jquery_update maillog masquerade module_filter fpa pathauto token```
@@ -44,7 +44,7 @@ After this lesson you should have:
 * @todo - Add resources & instructions for advanced configuration of Views, DS & Panels.
 
 2) Front End Development
-========================
+------------------------
 
 ### A. Overview
 
@@ -101,7 +101,7 @@ Some other base themes worth considering:
 * Building things the right way - look through documentation, keep things clean etc.
 
 3) CSS & Sass
-=============
+-------------
 
 #### A. CSS
 

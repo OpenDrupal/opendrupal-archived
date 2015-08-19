@@ -1,12 +1,12 @@
 Frontend Development & Theming in Drupal
-----------------------------------------
+========================================
 
 HTML & Templating
-=================
+-----------------
 
 Aims: Be able to write well structured, semantic HTML. Understand Drupal's theme system, override template and theme functions.
 
-### A. HTML 5 
+### A. HTML 5
 
 * __Do:__ Using the following resources as a references points, write a blog post on a) What is HTML5? b) Why are semantics in HTML important.
 
@@ -46,14 +46,14 @@ Read the following articles and implement [template_preprocess_page()](https://a
 * __Read:__ [Finding Variables](http://themery.com/dgd7/advanced-theming/finding-variables)
 * __Read:__ [Preprocess & Process Functions](http://themery.com/dgd7/advanced-theming/preprocess-process) + part [2](http://themery.com/dgd7/advanced-theming/preprocess-process/implement), [3](http://themery.com/dgd7/advanced-theming/preprocess-process/variables) and [4](http://themery.com/dgd7/advanced-theming/preprocess-process/in-action)
 
-Also try: 
+Also try:
 
 1. Implementing [template_preprocess_node](https://api.drupal.org/api/drupal/modules!node!node.module/function/template_preprocess_node/7) to add custom variables for specific content types.
 2. Implement [theme_breadcrumb](https://api.drupal.org/api/drupal/includes%21theme.inc/function/theme_breadcrumb/7) to change the separator between breadcrumb items.
 3. For other ideas see the [CEMS base theme's includes folder](https://github.com/hedleysmith/CEMS/tree/master/includes).
 
 CSS, Sass & Styling Drupal
-==========================
+--------------------------
 
 Aims: Be able to write well structured and consistently formatted CSS. Use the common features of Sass and apply them to a Drupal theme.
 

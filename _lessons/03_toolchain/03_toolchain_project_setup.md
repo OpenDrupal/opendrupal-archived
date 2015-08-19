@@ -1,19 +1,19 @@
 The Toolchain Continued & Site Building
----------------------------------------
+=======================================
 
 Project Build
-=============
+-------------
 
 ### A. Start building your site
 
 * Start building your site by downloading contrib modules you think you'll need, create some content types and add some test content.
 
 Git
-===
+---
 
 ### A. Git Basics
 
-* __Do:__ https://try.github.io 
+* __Do:__ https://try.github.io
 * __Read:__ [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), chapter 1 and [3.2: basic branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
 * __Group Activity:__ Each draw a diagram of what Git is and how it works.
@@ -28,7 +28,7 @@ Git
 
 ### C. Git: Shared Repository Setup
 
-* __Group Activity:__ 
+* __Group Activity:__
   * Nominate one person to create a new git repo with a single text file in called ```web_dev_gotchas.md```. Now share this repo with everyone in the group.
   * Now each member of the group should add in at least three tips or things they've learnt about web development.
   * Try to categorise these tips into sections (e.g 'Git', 'Drupal', 'Frontend').
@@ -55,7 +55,7 @@ Git
 * [Git Immersion](http://gitimmersion.com/)
 
 Deployment
-==========
+----------
 
 ## A. Components of a website
 
@@ -70,7 +70,7 @@ Commonly a website will run on several environments, e.g local, dev, staging and
 ## B. Methods of migrating between environments
 
 1. PhpMyAdmin, Adminer, Backup & Migrate
-2. Git repository for code - how to configure? 
+2. Git repository for code - how to configure?
 3. Settings.php
 4. Files directory
 

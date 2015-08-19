@@ -1,5 +1,5 @@
 Agile Development
------------------
+=================
 
 @todo - Add in Crispin's notes.
 
@@ -31,7 +31,7 @@ This lesson contains an introduction to the concepts of Agile development. This 
 Project Management Systems
 --------------------------
 
-Project management systems are essential to any successful project. You'll need to 
+Project management systems are essential to any successful project. You'll need to
 
 ### A. Types of system
 
@@ -44,7 +44,7 @@ Project management systems are essential to any successful project. You'll need 
 * Sign-up for one of these systems (we recommend Trello) and add all user stories to a 'backlog' section.
 * Use this management system as you proceed to develop your site.
 
-*__Checkpoint:__ Take a screenshot of your PM system, copy into a Google doc (or write a blog post) and explain the process you'll be undertaking. 
+*__Checkpoint:__ Take a screenshot of your PM system, copy into a Google doc (or write a blog post) and explain the process you'll be undertaking.
 
 ### B. Build a scrum board
 
