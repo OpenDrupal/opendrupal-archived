@@ -28,7 +28,7 @@ Now, do the following:
 * __Do:__ Write up your project plan and include: a summary of the site, the main pages, key Drupal modules, advanced functionality.
 * __Checkpoint:__ rename your Google Doc to "Full Project Plan" and save it in a folder called *"Open Drupal - [name]"* replacing [name] with your full name. Now share this folder with the trainer.
 
-## B. Local Development Environment Setup
+### B. Local Development Environment Setup
 
 * __Do:__ Open Drupal VM tutorial, *Tutorials->open_drupal_vm.md*
 * Now set up a snapshot at your machine's vanilla state.
@@ -53,7 +53,7 @@ Now, do the following:
 * __Do:__ Create a new document and write an outline of how to use the command line.
 * __Checkpoint:__ Save this document in your folder and call it '01_command_line.txt'.
 
-### Resources
+### Extra Resources
 
 * [*NIX Spellbook](http://nixsrv.com/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -74,7 +74,7 @@ Now, do the following:
 * __Read:__ [example.aliases.drushrc.php](https://github.com/drush-ops/drush/blob/master/examples/example.aliases.drushrc.php)
 * __Do:__ Create an alias to your local Drupal installation. Set up a site on a remote environment and set up an aliases for this site.
 
-### Resources
+### Extra Resources
 
 * [Drushcommands.com](http://drushcommands.com/)
 * [Github.com/drush-ops/drush](http://drush.ws/)

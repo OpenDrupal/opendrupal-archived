@@ -47,7 +47,7 @@ Git
 * __Read:__ [A successful branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * __Do:__ Install the [Gitflow plugin](https://github.com/nvie/gitflow), create a feature branch with some work on and merge in.
 
-### Resources
+### Extra Resources
 
 * [Pro Git](https://git-scm.com/doc)
 * [Atlassian: Git](https://www.atlassian.com/git/)
@@ -57,7 +57,7 @@ Git
 Deployment
 ----------
 
-## A. Components of a website
+### A. Components of a website
 
 The following components make up a Drupal site:
 
@@ -67,14 +67,14 @@ The following components make up a Drupal site:
 
 Commonly a website will run on several environments, e.g local, dev, staging and production. We need to make sure we can effectively migrate our website between these environments. These techniques will also be useful for setting up websites locally.
 
-## B. Methods of migrating between environments
+### B. Methods of migrating between environments
 
 1. PhpMyAdmin, Adminer, Backup & Migrate
 2. Git repository for code - how to configure?
 3. Settings.php
 4. Files directory
 
-## C. Process
+### C. Process
 
 * Make sure you understand the migration and deployment process
 * Export all of the components of your site.

@@ -1,5 +1,5 @@
 Roadmap
--------
+=======
 
 __Main aim:__ Free and open source training material by way of The Open Drupal Curriculum.
 
@@ -23,9 +23,14 @@ Version 2 of the curriculum:
 * Decouple the curriculum from the training materials by writing more comprehensive aims & learning objectives.
 * Clearer instructions on implementing and contributing to The Open Drupal Curriculum.
 
-
 ## Ideas
 
 * Build an authentication system, allowing participants to check off areas they have completed.
 * Build a custom UI for editing files.
 * 'Switches' between learning materials (e.g switches between Drupalize.me, buildamodule.com or free videos).
+
+Lesson content ideas
+--------------------
+
+* Google Analytics lesson
+* Drupal AJAX API & cTools AJAX

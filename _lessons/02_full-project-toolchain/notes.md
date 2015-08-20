@@ -1,13 +1,13 @@
 Project Setup & Intro to the Toolchain: Notes
----------------------------------------------
+=============================================
 
 Preparation
-===========
+-----------
 
 * Print out Open Drupal VM passwords
 
 1) Project Set Up
-=================
+-----------------
 
 ### A. Decide on a Project
 
@@ -20,7 +20,7 @@ Preparation
 * 1 hour
 
 2) Command Line
-===============
+---------------
 
 * 1 - 2 hours
 * __Group discussion:__ the command line, what is it? Why should we use it (it's quicker and more powerful)?
@@ -29,6 +29,6 @@ Preparation
 * __Quiz:__ common terminal commands (see http://cli.learncodethehardway.org/book/ex1.html#linux-mac-osx)
 
 3) Drush
-========
+--------
 
 * 1 - 2 hours

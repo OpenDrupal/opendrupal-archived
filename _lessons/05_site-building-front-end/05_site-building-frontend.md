@@ -43,8 +43,8 @@ After this lesson you should have:
 
 * @todo - Add resources & instructions for advanced configuration of Views, DS & Panels.
 
-2) Front End Development
-------------------------
+2) Front End Development and Drupal
+-----------------------------------
 
 ### A. Overview
 
@@ -120,17 +120,13 @@ CSS is a huge topic in itself. It's vital to understand CSS deeply for effective
 
 * Breakpoint, Singularity, Susy, Zen Grids.
 
-#### E. CSS Architecture & Standards
+#### E. CSS Architecture & Standards (Optional)
 
 * __Read:__ SMACSS, BEM
 * __Do:__ Write your own mini CSS styleguide, highlighting the most important parts to you. Save this as a .md file within a GitHub repository.
 
-__Resources__
-
-* Sass styleguides
-
 #### F. Gulp & Advanced Sass (Optional)
 
 * Install Node.js, Gulp & Libsass within your theme
-* Add in browsersync & autoprefixer
+* Add in BrowserSync & Autoprefixer
 * Look at yo-generator-webapp & Google's web starterkit

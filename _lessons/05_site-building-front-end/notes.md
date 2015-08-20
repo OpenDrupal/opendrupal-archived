@@ -1,8 +1,8 @@
 Site Building & Front End Development
--------------------------------------
+=====================================
 
 1) Modules
-==========
+----------
 
 Quick run through: 1 - 2 hours
 
@@ -21,7 +21,7 @@ Quick run through: 1 - 2 hours
 * Demos: how to use some of the more popular modules. Tips & tricks on using modules.
 
 2) Front End Development
-========================
+------------------------
 
 ### B. Drupal Theming
 

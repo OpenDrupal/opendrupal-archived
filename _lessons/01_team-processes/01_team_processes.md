@@ -1,9 +1,12 @@
-Agile Development
-=================
+Team Processes
+==============
 
 @todo - Add in Crispin's notes.
 
 This lesson contains an introduction to the concepts of Agile development. This includes the general theory behind agile teams and the agile lifecycle as well as the more specific methdology of Scrum.
+
+Agile development
+-----------------
 
 ### A. An Introduction to Agile & Scrum
 
@@ -24,7 +27,7 @@ This lesson contains an introduction to the concepts of Agile development. This 
 * [Kanban](https://www.atlassian.com/agile/kanban)
 * [Design Spikes](http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)
 
-### Resources
+### Extra Resources
 
 * @todo - Add some useful resources for prototyping.
 
@@ -44,7 +47,7 @@ Project management systems are essential to any successful project. You'll need 
 * Sign-up for one of these systems (we recommend Trello) and add all user stories to a 'backlog' section.
 * Use this management system as you proceed to develop your site.
 
-*__Checkpoint:__ Take a screenshot of your PM system, copy into a Google doc (or write a blog post) and explain the process you'll be undertaking.
+* __Checkpoint:__ Take a screenshot of your PM system, copy into a Google doc (or write a blog post) and explain the process you'll be undertaking.
 
 ### B. Build a scrum board
 

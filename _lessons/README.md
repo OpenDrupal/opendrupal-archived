@@ -14,55 +14,62 @@ trainers with them as well.
 The lessons can be re-ordered if it suits the programme they are being used in.
 
 All lessons assume that a participant has gone through all parts of The Open
-Drupal Foundation course, or have equivalent knowledge.
+Drupal Foundation course, or has equivalent knowledge. The lessons are split up
+in to five sections.
 
 ### Open Drupal Dev Team Hacker
 
-Get ready to integrate into a team by skilling up and mastering the most important
-parts of setting up new projects and working on existing projects like a pro.
+Integrate into a team by skilling up and mastering the most important parts of
+setting up new projects and working on existing projects like a pro. Start your
+own project which you'll work on for the duration of the course.
 
 | No.| Units Covered             | Notes                                                        |
 |----|---------------------------|--------------------------------------------------------------|
 | 01 | Team Processes            | PM systems, Agile methodology, User Stories                  |
 | 02 | Full Project, Toolchain   | Project set up, local dev environment, command line, Drush   |
-| 03 | Toolchain, Full Project   | Repository set up, Git, deployment & Drupal environments     |
+| 03 | Full Project, Toolchain   | Repository set up, Git, deployment & Drupal environments     |
 | 04 | Full Project              | Gathering requirements & prototyping                         |
 | 05 | Site Building, Front End  | Contrib modules, theme set up                                |
 
 ### Open Drupal Front End Ninja
 
-Learn about all areas of the front end.
+Learn all about front end development and design on the web and how to use
+these skills in Drupal.
 
 | No.| Units Covered             | Notes                                                        |
 |----|---------------------------|--------------------------------------------------------------|
 | 06 | Front End                 | HTML & theming                                               |
 | 07 | Front End                 | Responsive design                                            |
-| 08 | Front End                 | CSS, Sass, JavaScript                                        |
-| 09 | Front End                 | Sass, jQuery                                                 |
+| 08 | Front End                 | CSS, Sass, JavaScript, jQuery                                |
+| 09 | Front End                 | JavaScript, jQuery, theming                                  |
 | 10 | Front End                 | JavaScript, finish theme                                     |
 
 ### Open Drupal Full Stack Master
 
-See what it takes to work across all areas of the web stack. From setting up a server to
-coding API integrations.
+See what it takes to work across all areas of the web stack. From setting up a
+server to API integrations.
 
 | No.| Units Covered             | Notes                                                        |
 |----|---------------------------|--------------------------------------------------------------|
 | 11 | Back End                  | PHP, custom module development                               |
-| 12 | Site building, Team       | Advanced module dev focus + Team skills (ahead of hackathon) |
-| 13 | Hackathon                 |                                                              |
-| 14 | Back End                  | DevOps: Features, deployment, LAMP administration            |
-| 15 | Testing                   | Testing & QA                                                 |
+| 12 | Back End                  | PHP, custom module development, APIs                         |
+| 13 | Site building, Team       | Advanced module dev focus + Team skills (ahead of hackathon) |
+| 14 | Hackathon                 |                                                              |
+| 15 | Back End                  | DevOps: Features, deployment, LAMP administration            |
 
 ### Open Drupal Back End Sensei
+
+Learn how to build back end systems and how to extend and build on top of
+Drupal by learning more advanced PHP and applying this knowledge building
+custom modules in Drupal.
 
 | No.| Units Covered             | Notes                                                        |
 |----|---------------------------|--------------------------------------------------------------|
 | 16 | Back End                  | PHP, custom module development                               |
 | 17 | Back End                  | PHP, custom module development                               |
 | 18 | Back End                  | APIs, services                                               |
-| 19 | Back End                  | TBC                                                          |
-| 20 | Back End                  | Testing: Behat                                               |
+| 19 | Back End                  | Automated testing                                            |
+| 20 | Testing                   | Testing & QA                                                 |
 
 ### Open Drupal Complete
 
@@ -75,9 +82,3 @@ your web development expertise.
 | 21 | Full Project              | Catch-up and finish projects                                |
 | 22 | Full Project              | Catch-up and finish projects                                |
 | 23 | Specification             | Write a full specification for an upcoming project          |
-
-
-Other Ideas
------------
-
-* Google Analytics lesson

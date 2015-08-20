@@ -7,4 +7,7 @@ Help out by [adding to it](https://github.com/OpenDrupal/opendrupal/blob/master/
 
 ### Ideas For This lesson
 
-* @todo
+* More module Development
+* Useful techniques for the upcoming hackathon
+* Integrating with third party APIs
+* Hacks for building things quickly
