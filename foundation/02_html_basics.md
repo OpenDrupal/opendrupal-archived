@@ -23,3 +23,4 @@
 
 * [Mozilla Developer Network: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Mozilla’s Webmaker](https://webmaker.org) - Mozilla have a platform similar to JSBin called Thimble, check out some of the makes for inspiration, and try remixing them to see the code
+* [UDemy: Learn HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
