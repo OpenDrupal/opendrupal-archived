@@ -14,6 +14,7 @@ Git
 ### A. Git Basics
 
 * __Do:__ https://try.github.io
+* __Do:__ https://www.codecademy.com/learn/learn-git
 * __Read:__ [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics), chapter 1 and [3.2: basic branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
 
 * __Group Activity:__ Each draw a diagram of what Git is and how it works.
