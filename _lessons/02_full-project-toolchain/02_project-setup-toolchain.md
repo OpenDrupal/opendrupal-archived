@@ -3,25 +3,22 @@ Project Setup & Intro to the Toolchain
 
 Overview
 --------
+###Here is what we'll be covering:
 
-* Deciding on a project to work on over the coming workshops, so there is a consistent focus and so you can build something useful and use as evidence.
-* Setting up and making sure we're comfortable with our local development environments, so when we use this environments in the future we know what we're doing.
-* Using the command line & Drush, as they are widely used developer tools and can make you quicker and access more powerful system features.
+1 
 
-1) Project Set Up
+###By the end of this lesson you will:**
+
+* Have decided on your project and documented the main requirements for it
+* Set up your local development environment and be comfortable using it
+* Have experience using the command line & Drush to download and install Drupal 8 and some modules
+
+1) Project Review
 -----------------
 
 ### A. Decide on a project
 
-Think about a project you're interested in creating. Look through the [project examples](https://drive.google.com/drive/u/1/folders/0BzS3s9jPn08-V3NkQ0Z1RzNaMU0/0ByiysEQCBIteU3Q4eU1JT01PcEU/0By9KqisVw_3lTnRSZnVPb2RIMjA) and use these as suggestions for the types of project you could create.
-
-Your project must include the following:
-
-* It should be focused around content you'll add yourself, and have a section listing this content in some way.
-* It should accept and process user input in some way.
-* It should be something realistic and suitable for Drupal.
-* Any advanced functionality should be documented in a separate part of your plan.
-* The project must be started from scratch, so no distributions or existing websites you've built.
+Present your project idea to the group, let us know what you are thinking of building, who the site is aimed at roughly how you see it working and what modules you are thinking of using. Following each presentation will be a group discussion about your project, a chance for everyone else to feedback on your ideas, ask questions and make suggestions. Appoint a different person for each presentation to keep track of the discussion and record the main points.
 
 Now, do the following:
 
@@ -30,6 +27,12 @@ Now, do the following:
 
 ### B. Local Development Environment Setup
 
+Group discussion / showcase of your current local dev set up(?)
+
+@todo - Discuss VM 
+- do we need an update?
+- some firms/candidates have their own 
+
 * __Do:__ Open Drupal VM tutorial, *Tutorials->open_drupal_vm.md*
 * Now set up a snapshot at your machine's vanilla state.
 * __Checkpoint:__ all have a working local environment and be able to edit our Drupal sites.
@@ -37,11 +40,16 @@ Now, do the following:
 
 2) Command Line
 ---------------
+The command line & Drush while not essential tools are widely used and can make you more efficient and grant access to more powerful system features. For example, think about the time it would take you to find, download and install 5 separate modules. Not a great deal of time, granted, yet a fair bit more time than it takes with Drush:
+
+```
+drush dl module1 module2 module3 module4 module5
+drush en module1 module2 module3 module4 module5
+```
 
 ### A. Command Line Basics
 
-* __Read:__ [CodeAcademy - getting comfortable in the terminal](http://www.codecademy.com/blog/72-getting-comfortable-in-the-terminal-linux).
-* __Do:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
+* __Do:__ [CodeAcademy - Learn the Command Line (units 1 & 2)](https://www.codecademy.com/learn/learn-the-command-line).
 
 ### B. Test
 
@@ -50,8 +58,7 @@ Now, do the following:
 ### C. VIM (optional)
 
 * __Do:__ [Open VIM Tutorial](http://www.openvim.com/tutorial.html).
-* __Do:__ Create a new document and write an outline of how to use the command line.
-* __Checkpoint:__ Save this document in your folder and call it '01_command_line.txt'.
+* __Do:__ Create a new blog post with an outline of how to use the command line and links to resources.
 
 ### Extra Resources
 
@@ -73,6 +80,11 @@ Now, do the following:
 * __Read:__ [Deeson: Drush aliases](https://www.deeson.co.uk/labs/drupal-drush-aliases-and-how-use-them)
 * __Read:__ [example.aliases.drushrc.php](https://github.com/drush-ops/drush/blob/master/examples/example.aliases.drushrc.php)
 * __Do:__ Create an alias to your local Drupal installation. Set up a site on a remote environment and set up an aliases for this site.
+
+To Do
+-----
+
+* __Do:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
 
 ### Extra Resources
 
