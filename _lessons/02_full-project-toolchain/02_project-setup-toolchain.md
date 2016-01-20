@@ -5,7 +5,10 @@ Overview
 --------
 ###Here is what we'll be covering:
 
-1 
+1 Presentation and discussion of your project idea
+2 Local development environments 
+3 Introduction to command line
+4 Drush - a command line shell and Unix scripting interface for Drupal
 
 ###By the end of this lesson you will:**
 
@@ -16,8 +19,6 @@ Overview
 1) Project Review
 -----------------
 
-### A. Decide on a project
-
 Present your project idea to the group, let us know what you are thinking of building, who the site is aimed at roughly how you see it working and what modules you are thinking of using. Following each presentation will be a group discussion about your project, a chance for everyone else to feedback on your ideas, ask questions and make suggestions. Appoint a different person for each presentation to keep track of the discussion and record the main points.
 
 Now, do the following:
@@ -25,7 +26,8 @@ Now, do the following:
 * __Do:__ Write up your project plan and include: a summary of the site, the main pages, key Drupal modules, advanced functionality.
 * __Checkpoint:__ rename your Google Doc to "Full Project Plan" and save it in a folder called *"Open Drupal - [name]"* replacing [name] with your full name. Now share this folder with the trainer.
 
-### B. Local Development Environment Setup
+2) Local Development Environment Setup
+--------------------------------------
 
 Group discussion / showcase of your current local dev set up(?)
 
@@ -38,7 +40,7 @@ Group discussion / showcase of your current local dev set up(?)
 * __Checkpoint:__ all have a working local environment and be able to edit our Drupal sites.
 * __Group discussion:__ Q&A on virtual machines and local setup, tips & tricks on local development.
 
-2) Command Line
+3) Command Line
 ---------------
 The command line & Drush while not essential tools are widely used and can make you more efficient and grant access to more powerful system features. For example, think about the time it would take you to find, download and install 5 separate modules. Not a great deal of time, granted, yet a fair bit more time than it takes with Drush:
 
@@ -51,11 +53,7 @@ drush en module1 module2 module3 module4 module5
 
 * __Do:__ [CodeAcademy - Learn the Command Line (units 1 & 2)](https://www.codecademy.com/learn/learn-the-command-line).
 
-### B. Test
-
-* __Do:__ [Shortcut Foo - The command line](https://www.shortcutfoo.com/app/dojos/command-line). Complete level 1 & 2.
-
-### C. VIM (optional)
+### B. VIM (optional)
 
 * __Do:__ [Open VIM Tutorial](http://www.openvim.com/tutorial.html).
 * __Do:__ Create a new blog post with an outline of how to use the command line and links to resources.
@@ -65,7 +63,7 @@ drush en module1 module2 module3 module4 module5
 * [*NIX Spellbook](http://nixsrv.com/)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
-3) Drush
+4) Drush
 --------
 
 ### A. Drush Intro
@@ -81,13 +79,13 @@ drush en module1 module2 module3 module4 module5
 * __Read:__ [example.aliases.drushrc.php](https://github.com/drush-ops/drush/blob/master/examples/example.aliases.drushrc.php)
 * __Do:__ Create an alias to your local Drupal installation. Set up a site on a remote environment and set up an aliases for this site.
 
-To Do
------
-
-* __Do:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
-
 ### Extra Resources
 
 * [Drushcommands.com](http://drushcommands.com/)
 * [Github.com/drush-ops/drush](http://drush.ws/)
 * [Drush docs](http://docs.drush.org/)
+
+To Do
+-----
+* __Do:__ [Shortcut Foo - The command line](https://www.shortcutfoo.com/app/dojos/command-line). Complete level 1 & 2.
+* __Do:__ [Learn code the hard way - The command line crash course](http://cli.learncodethehardway.org/book/), and practice.
