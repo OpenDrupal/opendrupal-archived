@@ -22,8 +22,6 @@ Throughout this course you will develop a project site, Where appropriate you wi
 
 * It should be something realistic and suitable for Drupal.
 
-* Any advanced functionality should be documented in a separate part of your plan.
-
 * The project must be started from scratch, so no distributions or existing websites you've built.
 
 #### Example Projects
