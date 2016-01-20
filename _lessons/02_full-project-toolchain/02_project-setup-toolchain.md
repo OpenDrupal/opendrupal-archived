@@ -5,10 +5,10 @@ Overview
 --------
 ###Here is what we'll be covering:
 
-1 Presentation and discussion of your project idea
-2 Local development environments 
-3 Introduction to command line
-4 Drush - a command line shell and Unix scripting interface for Drupal
+1. Presentation and discussion of your project idea
+2. Local development environments 
+3. Introduction to command line
+4. Drush - a command line shell and Unix scripting interface for Drupal
 
 ###By the end of this lesson you will:**
 

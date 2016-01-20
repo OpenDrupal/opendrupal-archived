@@ -7,12 +7,12 @@ Overview
 --------
 ###Here is what we'll be covering:
 
-1 What is Agile? - theory, principles and how it works for web development
-2 Iterative development - what it means and how it works
-3 Scrum - sprints and roles
-4 User stories - to describe what we are going to build
-5 Estimation - how we estimate tasks using scores 1 - 5
-6 Planning - using Trello for Kanban, more detailed sprint boards and reviews
+1. What is Agile? - theory, principles and how it works for web development
+2. Iterative development - what it means and how it works
+3. Scrum - sprints and roles
+4. User stories - to describe what we are going to build
+5. Estimation - how we estimate tasks using scores 1 - 5
+6. Planning - using Trello for Kanban, more detailed sprint boards and reviews
 
 ###By the end of this lesson you will:**
 
