@@ -26,6 +26,18 @@ Throughout this course you will develop a project site, Where appropriate you wi
 
 * The project must be started from scratch, so no distributions or existing websites you've built.
 
+#### Example Projects
+
+* __Healthy Food__ - Recipe submission and sharing with multi user blog
+
+* __Unsigned London__ - Unsigned music acts, venu and gig listings in London
+
+* __Scout Group__ - Public info, sign up, newsletter and secure areas to access restricted content based on role
+
+* __Fact of the Day__ - Daily facts delivered to subscribers across various channels, includes placement ads and takeover options
+
+* __Gym__ - Info on classes, tailored programmes, sign up, multi user fitness blog
+
 ## For apprenticeship candidates:
 
 Your project and blog sites are used as evidence of your completion of course checkpoints and requirements. All candidates must submit a completed project and blog at the end of the year for assessment by the Tech Partnership.
