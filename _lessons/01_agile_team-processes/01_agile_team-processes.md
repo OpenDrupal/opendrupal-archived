@@ -14,7 +14,7 @@ Overview
 5. Estimation - how we estimate tasks using scores 1 - 5
 6. Planning - using Trello for Kanban, more detailed sprint boards and reviews
 
-###By the end of this lesson you will:**
+###By the end of this lesson you will:
 
 * Be able to define your project in terms of user stories
 * Provide estimates of for those user stories
