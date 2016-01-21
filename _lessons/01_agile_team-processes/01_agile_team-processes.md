@@ -29,8 +29,18 @@ Agile development
 "Agile software development is a group of software development methods based on iterative and incremental development, where requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. 
 It promotes adaptive planning, evolutionary development and delivery, a time-boxed iterative approach, and encourages rapid and flexible response to change. It is a conceptual framework that promotes foreseen tight interactions throughout the development cycle."
 
+@todo - link to Intro to Agile slides
+
+####Group Activity - Paper cups game
+
+@todo - link to teacher resource for paper cups game
+
+* What did we learn?
+* What agile priciples does this game demonstrate?
+
 ####SCRUM
 @todo add intro to SRCUM
+@todo - link to SCRUM slides
 
 * __Product Owner__ – (a role probably performed by the Service manager) responsible for delivering return on investment, usually by creating products that users love
 * __Delivery Manager__ (aka Scrum master or project manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
@@ -41,12 +51,19 @@ It promotes adaptive planning, evolutionary development and delivery, a time-box
 * __Read:__ [An intro to Scrum](https://www.atlassian.com/agile/scrum)
 * __Do:__ Write a blog post outlining the principles of Agile development, iteritive development and SCRUM
 
+####Group Activity - Paper hat game
+
+You will need:
+@todo - link to teacher resource for paper hat game
+
+* What did we learn?
+* What agile priciples does this game demonstrate?
 
 ### B. Gathering Requirements
 For agile projects we gather our requirements as 'User Stories' rather than extensive documentation. This allows us greater flexibility.
 
 * __Read:__ [Gov.uk writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* __Do:__ Write between 5 & 10 user stories to describe functionality of your project.
+* __Do:__ Write between 5 & 10 user stories to describe functionality of a project (use one of the example projects from the foundation course).
 
 ### C. Estimation
 We estimate user stories (or features or tasks) for its difficluty and value _relatively_ to the other user stories (or features or tasks)
