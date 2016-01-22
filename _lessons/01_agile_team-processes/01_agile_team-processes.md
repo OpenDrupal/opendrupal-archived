@@ -29,7 +29,8 @@ Agile development
 "Agile software development is a group of software development methods based on iterative and incremental development, where requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. 
 It promotes adaptive planning, evolutionary development and delivery, a time-boxed iterative approach, and encourages rapid and flexible response to change. It is a conceptual framework that promotes foreseen tight interactions throughout the development cycle."
 
-@todo - link to Intro to Agile slides
+@todo - [link to Intro to Agile slides]
+(https://docs.google.com/presentation/d/1vQBfKZ0wvsEuqIqrvJFqlXUNdox9uxP2TQ_NGGF1Mrg/edit#slide=id.g5ae19c59a_0_6)
 
 ####Group Activity - Paper cups game
 
