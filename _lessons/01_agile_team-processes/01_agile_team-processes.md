@@ -64,7 +64,7 @@ You will need:
 For agile projects we gather our requirements as 'User Stories' rather than extensive documentation. This allows us greater flexibility.
 
 * __Read:__ [Gov.uk writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
-* __Do:__ Write between 5 & 10 user stories to describe functionality of a project (use one of the example projects from the foundation course).
+* __Do:__ Write between 5 & 10 user stories to describe functionality of a project (use one of the [example projects from the foundation course](https://drive.google.com/drive/folders/0By9KqisVw_3lTnRSZnVPb2RIMjA)).
 
 ### C. Estimation
 We estimate user stories (or features or tasks) for its difficluty and value _relatively_ to the other user stories (or features or tasks)
