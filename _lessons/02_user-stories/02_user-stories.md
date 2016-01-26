@@ -10,7 +10,7 @@ Overview
 3. Recap user stories and estimation 
 4. Initial documentation for your project
 
-###By the end of this lesson you will:**
+###By the end of this lesson you will:
 
 * Have decided on your project and documented the main requirements for it
 * Have developed your own user stories with estimations for your project
@@ -23,11 +23,13 @@ Present your project idea to the group, let us know what you are thinking of bui
 
 ### Section Checkpoint
 
-* __Do:__ Write up your project idea as a document saving it to your folder on Google Drive. Include:
-..* A summary of the site
-..* The main pages
-..* Key Drupal modules
-..* Advanced functionality you may include 
+* __Do:__ Write up your project idea as a document saving it to your folder on Google Drive
+
+  Include:
+  * A summary of the site
+  * The main pages
+  * Key Drupal modules
+  * Advanced functionality
 
 2) Personas
 -----------
@@ -37,21 +39,21 @@ Who are the main types of people who will be using your site? We need to know a 
 A website for a medium sized company with pages, news items, and contact forms for different departments. They also have a blog section with content provided by members of the public.
 
 * Blogger
-..* Create and publish own blog posts
-..* See own unpublished blog posts
+  * Create and publish own blog posts
+  * See own unpublished blog posts
 * Blog Editor
-..* Edit, promote, delete all blog posts
-..* See all unpublished blog posts
+  * Edit, promote, delete all blog posts
+  * See all unpublished blog posts
 * Press Officer 
-..* Create/edit/delete news items
-..* See all unpublished news items
-..* Schedule News items for future publication
+  * Create/edit/delete news items
+  * See all unpublished news items
+  * Schedule News items for future publication
 * Site Editor
-..* Create/edit/delete pages and webforms
-..* See all unpublished content
+  * Create/edit/delete pages and webforms
+  * See all unpublished content
 * User Administrator
-..* Grant/revoke user roles
-..* Add new users
+  * Grant/revoke user roles
+  * Add new users
 
 ### Section Checkpoint
 * __Do:__ Create a list of the main user groups for your project and the tasks they would want to do - add this to your project documentation.
@@ -61,15 +63,16 @@ A website for a medium sized company with pages, news items, and contact forms f
 ###Group Activity
 Work in pairs or groups of three to come up with at least 10 user stories for your project using the standard structure:
 
-*title
-*actor
-*narrative
-*goal
+* title
+* actor
+* narrative
+* goal
 
 ####Example
-|Actor: |As a |journalist|
-|Narrative: |I want to |see contact information relating to the news article I am reading|
-|Goal: |So that	|I can get directly in touch with the press office about it|
+| Actor: | As a | Journalist|
+| --- | --- | --- |
+| Narrative: | I want to |see contact information relating to the news article I am reading |
+| Goal: | So that	| I can get directly in touch with the press office about it|
 
 Once you have 10 or so story cards agree on an estimate using numbers 1-5 or T-shirt sizing.
 
