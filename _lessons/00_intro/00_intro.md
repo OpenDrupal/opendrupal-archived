@@ -10,7 +10,10 @@ It is expected that you have completed the Open Drupal foundation course or the 
 
 A blog site built in Drupal, although not strictly required if you are following the self lead learning, is very useful as a tool to record your learning as you progress, confirm your understanding of concepts and issues, and as a resource for yourself to look back on.
 
-### Project site
+### Google Drive
+You'll need a google drive account or somewhere similar to create, store and share documents, spreadsheets and presentations.
+
+## Project site
 
 Throughout this course you will develop a project site, Where appropriate you will use this project to demonstrate the skills and concepts you are learning. The project site can be anything of your choosing but needs to include the following:
 
