@@ -1,5 +1,5 @@
-User Stories and Planning
-=========================
+User Stories
+============
 
 Overview
 --------
@@ -76,13 +76,9 @@ Once you have 10 or so story cards agree on an estimate using numbers 1-5 or T-s
 ### Section Checkpoint
 * __Do:__ Create a spreadsheet of all the user stories for your project based on the template provided.
 
-
-4) Session Checkpoint
----------------------
-* __Do:__ Create a blogpost outlining the day's session linking to your new documentation.
-
 To Do
 -----
 ###Before next time:
+* __Do:__ Create a blogpost outlining the day's session linking to your new documentation.
 * __Read:__ [Gov.uk 'writing user stories'](https://www.gov.uk/service-manual/agile/writing-user-stories.html)
 * __Do:__ Add more user stories to your spreadsheet.
