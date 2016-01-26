@@ -26,14 +26,14 @@ Inline links to resources
 * __Read:__ [Article Title - Chapters 1,2 & 5](#)
 * __Do:__ Some activity in pairs or alone, an online test etc.
 
-##Group Activity
+###Group Activity
 Every day should have at least one group activity
 
-## Section Checkpoint
+### Section Checkpoint
 Every day should have at least one checkpoint
 * __Do:__ Write a blog post......
 
-##Extra Resources
+###Extra Resources
 Extra things to do/read/watch outside of the lesson from this section - can also be used in lesson for people aho are ahead or finish before others.
 * __Watch:__ [Video title](#)
 * __Read:__ [Article Title - Chapters 1,2 & 5](#)
@@ -48,14 +48,14 @@ Inline links to resources for this section
 * __Read:__ [Article Title - Chapters 1,2 & 5](#)
 * __Do:__ Some activity in pairs or alone, an online test etc.
 
-##Group Activity
+###Group Activity
 Every day should have at least one group activity biut not necessarily every section.
 
-## Section Checkpoint
+###Section Checkpoint
 Every day should have at least one checkpoint but again - not necessarily every section - extra checkpoints or blog posts could be added to teh to do section at the end.
 * __Do:__ Write a blog post......
 
-##Extra Resources
+###Extra Resources
 Extra things to do/read/watch outside of the lesson from this section - can also be used in lesson for people aho are ahead or finish before others.
 * __Watch:__ [Video title](#)
 * __Read:__ [Article Title - Chapters 1,2 & 5](#)
