@@ -72,30 +72,3 @@ We estimate user stories (or features or tasks) for its difficluty and value _re
 *__Watch:__ [Agile Estimation in a nutshell](https://www.youtube.com/watch?v=sCCUEtjCpCs)
 *__Watch:__ [Agile Estimations - from Black Pepper Software](https://www.youtube.com/watch?v=7nTxdl29ePY)
 * __Do:__ As a group (or individually) come up with estimates (1-5) for all the user stories you created in the last excersise. 
-
-### D. Kanban & Design in Agile 
-
-* [Kanban](https://www.atlassian.com/agile/kanban)
-* [Design Spikes](http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)
-
-Project Management Systems
---------------------------
-
-Project management systems are essential to any successful project. You'll need to
-
-### A. Types of system
-
-* Trello
-* GitHub issue queue. See [mastering issues](https://guides.github.com/features/issues/).
-* JIRA
-* Open Atrium
-* Real life board
-
-* __Do:__ Sign-up for one of these systems (we recommend Trello) and add all your user stories to a 'backlog' section in a kanban board.
-* Use this management system as you proceed to develop your site.
-
-* __Checkpoint:__ Take a screenshot of your PM system, and include it in a blog post explaining the process you'll be undertaking.
-
-### B. Build a scrum board (optional)
-
-* Using post-it notes build a real life scrum board.

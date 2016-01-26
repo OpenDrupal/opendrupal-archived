@@ -40,6 +40,37 @@ Group discussion / showcase of your current local dev set up(?)
 * __Checkpoint:__ all have a working local environment and be able to edit our Drupal sites.
 * __Group discussion:__ Q&A on virtual machines and local setup, tips & tricks on local development.
 
+
+
+### D. Kanban & Design in Agile 
+
+* [Kanban](https://www.atlassian.com/agile/kanban)
+* [Design Spikes](http://www.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)
+
+Project Management Systems
+--------------------------
+
+Project management systems are essential to any successful project. You'll need to
+
+### A. Types of system
+
+* Trello
+* GitHub issue queue. See [mastering issues](https://guides.github.com/features/issues/).
+* JIRA
+* Open Atrium
+* Real life board
+
+* __Do:__ Sign-up for one of these systems (we recommend Trello) and add all your user stories to a 'backlog' section in a kanban board.
+* Use this management system as you proceed to develop your site.
+
+* __Checkpoint:__ Take a screenshot of your PM system, and include it in a blog post explaining the process you'll be undertaking.
+
+### B. Build a scrum board (optional)
+
+* Using post-it notes build a real life scrum board.
+
+
+
 3) Command Line
 ---------------
 The command line & Drush while not essential tools are widely used and can make you more efficient and grant access to more powerful system features. For example, think about the time it would take you to find, download and install 5 separate modules. Not a great deal of time, granted, yet a fair bit more time than it takes with Drush:
