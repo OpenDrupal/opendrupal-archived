@@ -66,9 +66,6 @@ A website for a medium sized company with pages, news items, and contact forms f
 * [Atlassian - Estimation](https://www.atlassian.com/agile/estimation/)
 * [3 Powerful Estimation Techniques for Agile Teams by M. David Green](http://www.sitepoint.com/3-powerful-estimation-techniques-for-agile-teams/)
 
-
-Read more http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/
-
 ###Group Activity
 Work in pairs or groups of three to come up with at least 10 user stories for your project using the standard structure:
 
