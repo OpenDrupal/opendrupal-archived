@@ -60,13 +60,22 @@ A website for a medium sized company with pages, news items, and contact forms f
 
 3) User Stories & Estimates
 ---------------------------
+###Recap
+* [What is a user story?](https://www.mountaingoatsoftware.com/agile/user-stories)
+* [10 Tips for Writing Good User Stories by Roman Pichler](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
+* [Atlassian - Estimation](https://www.atlassian.com/agile/estimation/)
+* [3 Powerful Estimation Techniques for Agile Teams by M. David Green](http://www.sitepoint.com/3-powerful-estimation-techniques-for-agile-teams/)
+
+
+Read more http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/
+
 ###Group Activity
 Work in pairs or groups of three to come up with at least 10 user stories for your project using the standard structure:
 
-* title
-* actor
-* narrative
-* goal
+* Title
+* Actor
+* Narrative
+* Goal
 
 ####Example
 | Actor: | As a | Journalist|
@@ -74,7 +83,7 @@ Work in pairs or groups of three to come up with at least 10 user stories for yo
 | Narrative: | I want to |see contact information relating to the news article I am reading |
 | Goal: | So that	| I can get directly in touch with the press office about it|
 
-Once you have 10 or so story cards agree on an estimate using numbers 1-5 or T-shirt sizing.
+Once you have 10 or so story cards agree on an estimate using M. David Green's estimation techniques.
 
 ### Section Checkpoint
 * __Do:__ Create a spreadsheet of all the user stories for your project based on the template provided.
