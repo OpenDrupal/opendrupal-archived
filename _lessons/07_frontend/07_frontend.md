@@ -15,3 +15,4 @@ Responsive Web Design
 
 * http://caniuse.com/
 * http://flexboxfroggy.com/
+* https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.q9322ds9e
