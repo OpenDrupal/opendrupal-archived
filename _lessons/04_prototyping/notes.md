@@ -1,1 +1,1 @@
-notes.md
+Create paper prototypes for key pages mapped to user journeys			
