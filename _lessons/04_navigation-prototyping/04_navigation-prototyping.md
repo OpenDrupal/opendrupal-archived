@@ -1,5 +1,5 @@
-Prototyping
-===========
+Navigation & Prototyping
+========================
 
 Overview
 --------
