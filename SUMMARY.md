@@ -14,7 +14,7 @@
    * [Build your site](foundation/10_build_your_site.md)
 * Lessons
   * [Introduction](_lessons/00_intro/00_intro.md)
-  * [1. Intro to Agile](_lessons/01_intro-to-agile/01_intro-to-agile.md)
-  * [2. User Stories](_lessons/02_user-stories/02_user-stories.md)
-  * [3. User Driven Development](_lessons/03_user-driven-development/03_user-driven-development.md)
-  * [4. Navigation & Prototyping](_lessons/04_navigation-prototyping/04_navigation-prototyping.md)
+  * [Intro to Agile](_lessons/01_intro-to-agile/01_intro-to-agile.md)
+  * [User Stories](_lessons/02_user-stories/02_user-stories.md)
+  * [User Driven Development](_lessons/03_user-driven-development/03_user-driven-development.md)
+  * [Navigation & Prototyping](_lessons/04_navigation-prototyping/04_navigation-prototyping.md)
