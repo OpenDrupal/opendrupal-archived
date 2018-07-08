@@ -1,3 +1,12 @@
+UPDATE: July 2018
+-----------------
+
+This project now resurected with a new curriculum focussed on Drupal 8. This work will be replaced by the new *curriculum* repo
+
+This repo remains for reference only and will be deleted.
+
+
+
 The Open Drupal Curriculum
 --------------------------
 
